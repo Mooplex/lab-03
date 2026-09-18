@@ -6,8 +6,12 @@
 - **CCID:** `msawalha`
 
 ## References and Resources
+- Claude (Anthropic), Claude Opus 4.5, accessed 2026-09-18.
+  Used for: explanation of Kotlin syntax (lambdas, trailing lambda 
+  syntax, `it`, delegated properties, `remember`/`mutableStateOf`), 
+  Compose state hoisting concepts, and assistance implementing the edit-city feature 
+  in CityListScreen.kt and CityRepository.kt.
 
-List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
